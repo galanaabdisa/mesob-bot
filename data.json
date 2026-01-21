@@ -1,0 +1,49 @@
+{
+  "organizations": [
+    {
+      "id": 1,
+      "name_or": "W/Kantiibaa /Bulcinnsa/",
+      "name_am": "የውሃ ባንዲራ / ግንባታ/",
+      "name_en": "Water Utility /Construction/",
+      "services_or": ["Iyyannoo fi komii uummataa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu"],
+      "services_am": ["የሕዝብ ጉባኤዎችን እና ኮሚቴዎችን ማሰማራት", "የተለያዩ ድጋፍ ንግግሮችን ማድረግ"],
+      "services_en": ["Organizing public meetings", "Providing support speeches"]
+    },
+    {
+      "id": 2,
+      "name_or": "PSMQN /TQO/",
+      "name_am": "ፒ.ኤስ.ኤም.ቁ.ኤን /ቲ.ቀ.ኦ/",
+      "name_en": "PSMQN /TQO/",
+      "services_or": ["Komii hojjetaa mootummaa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu"],
+      "services_am": ["የመንግስት ሥራ ኮሚቴዎችን ማሰማራት", "የተለያዩ ድጋፍ ንግግሮችን ማድረግ"],
+      "services_en": ["Organizing government work committees", "Providing various support"]
+    },
+    {
+      "id": 3,
+      "name_or": "Lafa",
+      "name_am": "መሬት",
+      "name_en": "Land Office",
+      "services_or": ["Gaaffii lafaa simachuu", "Waliigaltee liizii galchuu", "Galmeessaa fi kenna Kaartaa itti fayyadama lafaa"],
+      "services_am": ["የመሬት ጥያቄ መቀበል", "የባንዲራ ፈቃድ መስጠት", "የመሬት ካርታ ማዘጋጀት እና መስጠት"],
+      "services_en": ["Receiving land requests", "Issuing lease permits", "Preparing and providing land maps"]
+    },
+    {
+      "id": 4,
+      "name_or": "Galmeessa Siivilii",
+      "name_am": "የሲቪል ምዝገባ",
+      "name_en": "Civil Registration",
+      "services_or": ["Galmeessa sanadoota Siivilii", "Mirkaneessa sanadoota Siivilii"],
+      "services_am": ["የሲቪል ሰነዶች ምዝገባ", "የሲቪል ሰነዶች ማረጋገጫ"],
+      "services_en": ["Civil document registration", "Civil document verification"]
+    },
+    {
+      "id": 5,
+      "name_or": "CHUO",
+      "name_am": "ሲ.ኤች.ዩ.ኦ",
+      "name_en": "CHUO Office",
+      "services_or": ["Hoji barbaaddota galmeessuu", "Waldaalee IMX gurmaa'aniif qaama seerummaa kennuu"],
+      "services_am": ["የሥራ ፈላጊዎችን ምዝገባ", "ለIMX ማህበራት ሕጋዊ ባለሥልጣን መስጠት"],
+      "services_en": ["Registering job seekers", "Providing legal authority for IMX associations"]
+    }
+  ]
+}

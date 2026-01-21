@@ -5,45 +5,189 @@
       "name_or": "W/Kantiibaa /Bulcinnsa/",
       "name_am": "የውሃ ባንዲራ / ግንባታ/",
       "name_en": "Water Utility /Construction/",
-      "services_or": ["Iyyannoo fi komii uummataa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu"],
-      "services_am": ["የሕዝብ ጉባኤዎችን እና ኮሚቴዎችን ማሰማራት", "የተለያዩ ድጋፍ ንግግሮችን ማድረግ"],
-      "services_en": ["Organizing public meetings", "Providing support speeches"]
+      "services_or": ["Iyyannoo fi komii uummataa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu"]
     },
     {
       "id": 2,
       "name_or": "PSMQN /TQO/",
       "name_am": "ፒ.ኤስ.ኤም.ቁ.ኤን /ቲ.ቀ.ኦ/",
       "name_en": "PSMQN /TQO/",
-      "services_or": ["Komii hojjetaa mootummaa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu"],
-      "services_am": ["የመንግስት ሥራ ኮሚቴዎችን ማሰማራት", "የተለያዩ ድጋፍ ንግግሮችን ማድረግ"],
-      "services_en": ["Organizing government work committees", "Providing various support"]
+      "services_or": ["Komii hojjetaa mootummaa keessummeessuu", "Xalayaa deggarsa adda addaa kennuu", "Heyyama gahuumsa ogeessota daldala Meeshaalee elektirooniksii kennuu fi haaromsuu", "Heyyama gahuumsa ogeessota suphaa Meeshaalee elektirooniksii (hardware and software) Kennuu fi Haaromsuu", "Heyyama gahuumsa ogeessota leenjii suphaa Meeshaalee elektirooniksii fi dandeettii kompitaraa (hardware and software) Kennuu fi Haaromsuu", "Hayyama diriirsa bu'uuraalee teknolojii qunnamtii odeeffannoo (fkn Diriirsa network fi cctv kaameraa) hojjachuu barbaadaniif kennuu fi haaromsuu"]
     },
     {
       "id": 3,
       "name_or": "Lafa",
       "name_am": "መሬት",
       "name_en": "Land Office",
-      "services_or": ["Gaaffii lafaa simachuu", "Waliigaltee liizii galchuu", "Galmeessaa fi kenna Kaartaa itti fayyadama lafaa"],
-      "services_am": ["የመሬት ጥያቄ መቀበል", "የባንዲራ ፈቃድ መስጠት", "የመሬት ካርታ ማዘጋጀት እና መስጠት"],
-      "services_en": ["Receiving land requests", "Issuing lease permits", "Preparing and providing land maps"]
+      "services_or": ["Gaaffii lafaa simachuu", "Waliigaltee liizii galchuu", "Galmeessaa fi kenna Kaartaa itti fayyadama lafaa", "Bakka bu'ummaa mirkaneessuun kuusaa dhuunfaan walqabsiisuu", "Galmeessaa fi Kenna Kaartaa Kaadastaraa", "Dhorka Baankii fi mana murtii galmeessuu fi haquu (Kadaastara)", "Qabiyyee fi sirna qabiyyee lafaa adda baasuu, walitti makuu fi kaasuu (Kadaastara)", "Jijjiirraa maqaa raawwachuu (Kaadr.)", "Wabummaa galmeessuun kuusaa dhuunfaan walqabsiisuu (Kaadr.)"]
     },
     {
       "id": 4,
       "name_or": "Galmeessa Siivilii",
       "name_am": "የሲቪል ምዝገባ",
       "name_en": "Civil Registration",
-      "services_or": ["Galmeessa sanadoota Siivilii", "Mirkaneessa sanadoota Siivilii"],
-      "services_am": ["የሲቪል ሰነዶች ምዝገባ", "የሲቪል ሰነዶች ማረጋገጫ"],
-      "services_en": ["Civil document registration", "Civil document verification"]
+      "services_or": ["Galmeessa sanadoota Siivilii", "Mirkaneessa sanadoota Siivilii"]
     },
     {
       "id": 5,
       "name_or": "CHUO",
       "name_am": "ሲ.ኤች.ዩ.ኦ",
-      "name_en": "CHUO Office",
-      "services_or": ["Hoji barbaaddota galmeessuu", "Waldaalee IMX gurmaa'aniif qaama seerummaa kennuu"],
-      "services_am": ["የሥራ ፈላጊዎችን ምዝገባ", "ለIMX ማህበራት ሕጋዊ ባለሥልጣን መስጠት"],
-      "services_en": ["Registering job seekers", "Providing legal authority for IMX associations"]
+      "name_en": "CHUO",
+      "services_or": ["Hoji barbaaddota galmeessuu", "Waldaalee IMX gurmaa'aniif qaama seerummaa kennuu", "Xalayaa deeggarsaa Waldaalee IMX'f walitti hidhamiinsa gabaa uumuu", "Waldaaleen IMX Paakeejiiwwan deggersaa fi hayyama daldalaa akka argatan Xalayaa kennuu", "Waldaalee invastimantiitti ce'aniifi ce'umsa interpraayizootaaf waraqaa ragaa kennu"]
+    },
+    {
+      "id": 6,
+      "name_or": "Hojjetaa fi Hawaasummaa",
+      "name_am": "ሥራ እና ማህበራዊ",
+      "name_en": "Labor and Social Affairs",
+      "services_or": ["Kaardii hojii dhabdummaa kennuu", "Hayyama waldaalee hawaasaa adda addaa kennuu fi haaromsuu", "Hayyama ejensii hojjetaafi hojjechiisaa biyya keessaa walquunnamsiisuu kennuu ,haaromsuu,haquu fi kan bade bakka buusuu", "Waliigaltee qacarrii ogeessota profeeshinaalee dhaabbilee dhuunfaa mirkaneessuu"]
+    },
+    {
+      "id": 7,
+      "name_or": "Daldala",
+      "name_am": "ንግድ",
+      "name_en": "Trade",
+      "services_or": ["Hayyama daldalaa haaraa galmeessuu", "Hayyama daldalaa kennuu, haaromsuu, haquu fi fooyyessuu", "Moggaasa maqaa daldalaa kennuu", "Xalayaa deggarsaa adda addaa fi Walitti hidhamiinsa gabaa omisha qonnaafi induustirii uumuu kennuu"]
+    },
+    {
+      "id": 8,
+      "name_or": "Konistiraakshinii",
+      "name_am": "ኮንስትራክሽን",
+      "name_en": "Construction",
+      "services_or": ["Kenna fi haaromsa gahumsaa ogummaa ogeessotaa, waldaalee, dhaabilee fi gorsitotaa kennuu, dheereessuu fi haquu", "Waliigaltee walsimsiisa pilaanii raawwachiisuu", "Mirkaneessa dizaayinii haaraa, fooyya'iinsa, babal'ifannaa fi ijaarsa xumurame (as built)", "Hayyama ijaarsaa, fooyya'iinsa pilaanii, babal'ifannaa, mirga itti fayyadama gamoo, diigiinsa gamoo kennuu fi haaromsuu", "Sadarkaa ijaarsaa irra jiru kennuu", "Sanadoota caalbaasii ijaarsa gamoo mirkaneessuu", "Gahumsa hayyama ijaarsaa haaromsuu"]
+    },
+    {
+      "id": 9,
+      "name_or": "Galii",
+      "name_am": "ገቢ",
+      "name_en": "Revenue",
+      "services_or": ["Sassaabbii Galii idilee", "Sassaabii Galii M/Qopheessaa", "Lakk TIN kennuu", "Xalayaa deggersaa maxxansa nagahee kaffalaa gibiraa kennuu (Kaffalaa gibira A fi B)", "Murtii Taaksiifi Kaffaltii VAT, TOT fi witholding galmeessuu", "Waraqaa qulqullinaa idaarraa biliisa ta'uu ibsu kennuu"]
+    },
+    {
+      "id": 10,
+      "name_or": "Mana Qopheess.",
+      "name_am": "የቤት ግንባታ",
+      "name_en": "House Construction",
+      "services_or": ["Waraqaa eenyummaa biyyoolessaa (National ID)", "Deggersa bu'uuraalee misoomaa (ibsaa, daandii, bishaan...) kennuu", "Gurmii waldaalee lafa mana jirreenyaa", "Waliigaltee mana mootummaa raawwachuu, haaromsuu fi kaffaltii raawwachiisuu (kiraafi dhaabbiin dabarsuu)", "Hayyama suphaa mana mootummaa kennuu", "Hayyama mana gandaa deebisanii misoomsuu (diiganii) kennuu fi haaromsuu", "Waliigaltee kireessaa fi kireeffataa kennuu", "Hayyama tajaajila Qalmaa kennuu (lakk. Qeeraa kennuu)"]
+    },
+    {
+      "id": 11,
+      "name_or": "Fayyaa",
+      "name_am": "ጤና",
+      "name_en": "Health",
+      "services_or": ["Waraqaa qulqullinaa gahumsa dhaabilee daldalaa kennuu fi haaromsuu", "Hayyama manneen yaalaa dhuunfaa kennuu fi haaromsuu", "Inshuuraansii fayyaa hawaasaa kennuu fi haaromsuu", "Hayyama ogummaa haaromsuu"]
+    },
+    {
+      "id": 12,
+      "name_or": "Kominikeeshinii",
+      "name_am": "ኮሙኒኬሽን",
+      "name_en": "Communication",
+      "services_or": ["Eeyyama barjaalee fi beeksiisa sagalee kennuu"]
+    },
+    {
+      "id": 13,
+      "name_or": "Qonna Magaalaa /WHG/",
+      "name_am": "የከተማ ግብርና /WHG/",
+      "name_en": "Urban Agriculture /WHG/",
+      "services_or": ["Gurmii waldaalee WHG mirkaneessuu", "Xalayaa deggarsaa adda addaa waldaaleefi Walitti hidhamiinsa gabaa waldaalee Hojii Gamtaa uumuu kennuu", "Waldaalee Hojii Gamtaa invastimentiitti ce'aniif xalayaa deggersaa kennuu", "Xalayaa deggarsaa Qonnaan bulaa investimentiitti ce'aniifi walitti hidhamiinsa gabaa uumuu kennuu", "Hayyama Ogummaa Galtee Qonnaa Kennuu,Haaromsuu fi Haquu", "Hayyama Mirk. Gahumsa Ogummaa Manaa Qalmaa Kennuu fi haaromsuu", "Hayyama mirk. gahumsa ogummaa horsiisa horii Aannaanii fi foonii kennuu"]
+    },
+    {
+      "id": 14,
+      "name_or": "Eegumsa Naannoo",
+      "name_am": "የአካባቢ ጥበቃ",
+      "name_en": "Environmental Protection",
+      "services_or": ["Mirkaneessa qorannoo haala dhiibbaa naannoo", "Agarsiiftuu adeemsa hojii (TOR) sakatta'iinsa dhiibbaa naannoo fi hawaasaa mirkaneessuu", "Xalayaa Darbii Bu'aa Bosonaa"]
+    },
+    {
+      "id": 15,
+      "name_or": "Geejjiba",
+      "name_am": "ገጅብ",
+      "name_en": "Geejjiba",
+      "services_or": ["Gahumsa ogummaa dhaabbata leenjii konkolaachisummaa mirkaneessuu", "Mallattoo maxxantuu (boolloo) waggaa haaraa kennuu, haaromsuu fi haquu", "Hayyama konkolaachisaa kennuu fi haaromsuu (konkol. fi opiratara)", "Hayyama tajaajila geejibaa ykn haaromsa eeyyama waldaa kennuu", "Hayyama Bobbii Konkoolaataa kennuu", "Galmeessa waraqaa ragaa A/Qabeenyummaa konkolaataa kennuu", "Jijjiirraa maqaa abbaa qabeenyummaa raawwachuu", "Ragaalee konkolaataa fi konkolaachisaa badan haaraan bakka buusuu", "Dhorka konkolaataa raawwachuu fi haquu", "Kaffaltii boolloo raawwachuu", "Kaffaltii taarifaa raawwachiisuu", "Kaffaltii adabbii seera darbitootaa", "Galmeessa ragaa dhuunfaa dhorkuu, fooyyessuufi kaasuu"]
+    },
+    {
+      "id": 16,
+      "name_or": "Abbaa Alangaa",
+      "name_am": "አባ አላንጋ",
+      "name_en": "Abbaa Alangaa",
+      "services_or": ["Galmeessaa waldaalee daldalaa IMX", "Galmeessa waldaa haawaasaa siivilii", "Ragaalee waldaalee galmeessuu", "Waliigaltee galmeessuu", "Bakka bu'ummaa galmeessuu fi kennuu", "Galmeessa waliigaltee liqii", "Waliigaltee mirkaneessuu", "Sanadootaa adda addaa mirkaneessuu", "Mirkaneessa seera qabeessummaa turjumaanaa kennuu", "Waliigaltee pirojektii gulaaluu"]
+    },
+    {
+      "id": 17,
+      "name_or": "Invastimentii",
+      "name_am": "ኢንቨስትመንት",
+      "name_en": "Investment",
+      "services_or": ["Simannaa pirojektiiwwan haaraa", "Hayyama invastimantii kennuu, haaromsu, babal'isu fi addan kutuu", "Waliigaltee invastimantii galchisisuu", "Babal'ifannaa pirojektiifi jijjiirraa maqaa murtee boodaa", "Xalayaa deggersa ashuuraa kennuu", "Bakka bu'ummaa invastimentii galmeessuu", "Jijjiirraa gosa pirojektiio"]
+    },
+    {
+      "id": 18,
+      "name_or": "Kom/Tuurizimii",
+      "name_am": "ኮም/ቱሪዝም",
+      "name_en": "Commerce/Tourism",
+      "services_or": ["Mirkaneessa gahumsa dhaabilee tuurizimii (hoteelotaa.fi idowan haw.tuur.)", "Xalayaa deggera adda addaa kennuu"]
+    },
+    {
+      "id": 19,
+      "name_or": "Barnoota",
+      "name_am": "ትምህርት",
+      "name_en": "Education",
+      "services_or": ["Xalayaa deg. B/sotaa fi hoggansa M/Barumsaaf adda adda kennuu", "Hayyama Gahumsa Manneen Barnoota Dhuunfaa fi miti mootummaa Kennuu, Haaromsuu, Kan bade bakka buusuufi deebisuu (Mana Barnootaa BSTDfi sadarkaa tokkoffaa 1-8)", "Tajaajila jijjiirraa barsiisotaa/hooggantoota manneen barnootaa", "Hayyama gahumsa manneen barnoota dhuunfaa kennuu, haaromsuu fi haquu"]
+    },
+    {
+      "id": 20,
+      "name_or": "Poolisii",
+      "name_am": "ፖሊስ",
+      "name_en": "Police",
+      "services_or": ["Xalayaa adda addaa qaama ilaaluuf barreessuu"]
+    },
+    {
+      "id": 21,
+      "name_or": "Aadaa",
+      "name_am": "ባህል",
+      "name_en": "Culture",
+      "services_or": ["Hayyama gahumsa ogummaa dhaabilee aadaa kennuu, haaromsuu, haquu"]
+    },
+    {
+      "id": 22,
+      "name_or": "Maallaqa 11",
+      "name_am": "ገንዘብ 11",
+      "name_en": "Finance 11",
+      "services_or": ["Kaffaltii projektii raawwachuu", "Kafaltii bittaa meeshaalee fi tajaajilaa raawwachuu", "Kaffaltii beenyaa raawwachuu"]
+    },
+    {
+      "id": 23,
+      "name_or": "B/Gonofaa 10",
+      "name_am": "ቢ/ጎንፋ 10",
+      "name_en": "B/Gonofaa 10",
+      "services_or": ["Buusii miseensummaa sassaabuu", "Sassaabbii galii Buusaa Gonofaa"]
+    },
+    {
+      "id": 24,
+      "name_or": "Taj.B/Dhug.fi Dhangalaáa",
+      "name_am": "ታጅ/ብ/ጡጥ እና ድንጋሌ",
+      "name_en": "Construction/Stone and Gravel",
+      "services_or": ["Biilii Bishaanii gurguruu", "Kaffaltii tilmaama meeshaa bishaanii raawwachuu"]
+    },
+    {
+      "id": 25,
+      "name_or": "Tajaajila Ibsaa",
+      "name_am": "የአገልግሎት ማስታወቂያ",
+      "name_en": "Service Announcement",
+      "services_or": ["Kaffaltii tajaajila ibsaa raawwachuu"]
+    },
+    {
+      "id": 26,
+      "name_or": "ETC",
+      "name_am": "ኢ.ቲ.ሲ",
+      "name_en": "ETC",
+      "services_or": ["Tajaajila Itiyo telekom"]
+    },
+    {
+      "id": 27,
+      "name_or": "Baankii",
+      "name_am": "ባንክ",
+      "name_en": "Bank",
+      "services_or": ["Kaffaltiiwwan foddaawwan irraa ajajaan mirkaneessuun akkaawuntii ajajametti galchuu", "Kaffaltiiwwan adda addaa wiirtuudhaan ajajaman raawwachuu"]
     }
   ]
 }
